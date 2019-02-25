@@ -60,7 +60,7 @@ education:
 experiences:
     - role: Lead Developer
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: 千里鹰航空, 西安
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -153,23 +153,18 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Golang
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: Vue
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Java
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
