@@ -127,8 +127,8 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+技能列表:
+    title: 技能 &amp; 熟练程度
 
     toolset:
       - name: Golang
